@@ -22,7 +22,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
 | Livro | 🇧🇷🇺🇸 | [Trabalho Eficaz com Código Legado](https://www.amazon.com.br/Trabalho-Eficaz-com-C%C3%B3digo-Legado/dp/8582600321/)|  Michael Feathers  |
-| Livro | 🇧🇷 | [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)|  Mauricio Aniche 
+| Livro | 🇧🇷 | [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)|  Mauricio Aniche
 | Livro | 🇧🇷🇺🇸 | [Refatoração: Aperfeiçoando o Projeto de Código Existente](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Projeto-C%C3%B3digo-Existente-ebook/dp/B019IZK89A)|  Martin Fowler
 | Blog | 🇺🇸 | [Martin Fowler: A website on building software effectively](https://martinfowler.com/)|  Martin Fowler
 | Conferência | 🇺🇸 | [Lead Dev Conference](https://theleaddeveloper.com/)|  -
@@ -33,14 +33,15 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 ### Arquitetura e Design de Sistemas Complexos
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
-| Livro | 🇺🇸 	| [Building Evolutionary Architecture](https://www.amazon.com.br/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) | Neal Ford, Rebecca Parsons, Pat Kua 
-| Livro |  🇧🇷🇺🇸	| [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/) | Jez Humble, David Farley 
-| Livro | 🇺🇸 	| [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) | Eric Evans 
+| Livro | 🇺🇸 	| [Building Evolutionary Architecture](https://www.amazon.com.br/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) | Neal Ford, Rebecca Parsons, Pat Kua
+| Livro |  🇧🇷🇺🇸	| [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/) | Jez Humble, David Farley
+| Livro | 🇺🇸 	| [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) | Eric Evans
 | Livro | 🇺🇸 	| [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)	| Robert C. Martin
 | Livro | 🇺🇸 	| [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)| Nicole Forsgren PhD, Jez Humble, Gene Kim
 | Podcast | 🇺🇸 | [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)| Plato
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
 | Blog | 🇧🇷 | [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)| Simon Brown
+| Livro | 🇺🇸 | [Test Driven Development: By Example](https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530)| Kent Beck
 
 
 ### Produto
@@ -48,7 +49,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 |-----------	|-----------	|-----------	|------------|
 | Livro | 🇧🇷🇺🇸 | [Criatividade S.A.: Superando as forças invisíveis que ficam no caminho da verdadeira inspiração](https://www.amazon.com.br/Criatividade-Superando-invis%C3%ADveis-verdadeira-inspira%C3%A7%C3%A3o-ebook/dp/B00PJ2HK2U/) | Ed Catmull, Amy Wallace
 | Livro | 🇧🇷🇺🇸 | [Design Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-Jake-Knapp-ebook/dp/B06XPPS4JW) | Jake Knapp, John Zeratsky, Braden Kowitz
-| Livro | 🇺🇸	| [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com.br/INSPIRED-Create-Products-Customers-English-ebook/dp/B077NRB36N/) | Marty Cagan 
+| Livro | 🇺🇸	| [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com.br/INSPIRED-Create-Products-Customers-English-ebook/dp/B077NRB36N/) | Marty Cagan
 
 
 ### Feedbacks e Soft Skills
@@ -87,7 +88,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 ### Saúde do time e processos
 | Categoria 	| Idioma    	| Título    	| Observação |
 |-----------	|-----------	|-----------	|------------|
-| Site 	| 🇺🇸 	| [Fun retrospectives: Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com)| Paulo Caroli, Tainã Caetano 
+| Site 	| 🇺🇸 	| [Fun retrospectives: Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com)| Paulo Caroli, Tainã Caetano
 | Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
 | Deck 	| 🇺🇸 	| [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com.br/Managing-Happiness-Practices-Motivate-English-ebook/dp/B01GQWKHXK)| Jurgen Appelo
 | Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
@@ -98,7 +99,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 ### Recrutamento e onboarding
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
-| Curso | 🇧🇷 | [Curso de Recrutamento e Seleção para Alta Performance 2.0](https://gupy.academy/p/recrutamento-e-selecao-para-alta-performance)	| Gupy Academy 
+| Curso | 🇧🇷 | [Curso de Recrutamento e Seleção para Alta Performance 2.0](https://gupy.academy/p/recrutamento-e-selecao-para-alta-performance)	| Gupy Academy
 | Deck | 🇺🇸 | [Effective Team Onboarding](https://www.slideshare.net/mscandella/effective-team-onboarding)| María Gomez, ThoughtWorks
 
 
