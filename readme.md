@@ -76,6 +76,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 |-----------	|-----------	|-----------	|------------|
 | Livro | 🇺🇸 | [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY) | Jurgen Appelo
 | Livro | 🇧🇷🇺🇸 | [A Arte da Gestão: um Guia Prático Para Integrar Liderança e Recursos Humanos no Setor de Tecnologia](https://www.amazon.com.br/Arte-Gest%C3%A3o-Integrar-Lideran%C3%A7a-Tecnologia-ebook/dp/B086D4LJN8) | Camille Fournier
+| Livro | 🇺🇸 | [Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com.br/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=radical+candor&qid=1587662873&s=digital-text&sr=1-1) | Kim Scott
 | Newsletter 	| 🇺🇸 | [Level Up](http://levelup.patkua.com/) | Pat Kua
 | Deck | 🇺🇸| [1:1 Basics For The Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) | Pat Kua
 | Livro | 🇺🇸 | [High Output Management](https://www.amazon.com.br/Output-Management-English-Andrew-Grove-ebook/dp/B015VACHOK) | Andrew S. Grove
