@@ -43,6 +43,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
 | Blog | 🇧🇷 | [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)| Simon Brown
 | Livro | 🇺🇸 | [Test Driven Development: By Example](https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530)| Kent Beck
+| Livro | 🇺🇸 | [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Production-Ready-Software-English-ebook/dp/B079YWMY2V)| Michael T. Nygard
 
 
 ### Produto
