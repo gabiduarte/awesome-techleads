@@ -37,7 +37,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇺🇸 	| [Building Evolutionary Architecture](https://www.amazon.com.br/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) | Neal Ford, Rebecca Parsons, Pat Kua
 | Livro |  🇧🇷🇺🇸	| [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/) | Jez Humble, David Farley
 | Livro | 🇺🇸 	| [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) | Eric Evans
-| Livro | 🇺🇸 	| [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)	| Robert C. Martin
+| Livro | 🇧🇷🇺🇸 	| [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)	| Robert C. Martin
 | Livro | 🇺🇸 	| [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)| Nicole Forsgren PhD, Jez Humble, Gene Kim
 | Podcast | 🇺🇸 | [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)| Plato
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
