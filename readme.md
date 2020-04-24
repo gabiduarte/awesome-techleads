@@ -70,6 +70,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Os 7 Hábitos das Pessoas Altamente Eficazes - Edição Customizada: Lições poderosas para a transformação pessoal](https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626) | Stephen R. Covey
 | Livro | 🇧🇷🇺🇸 | [Trabalho Focado: Como ter Sucesso em um Mundo Distraído](https://www.amazon.com.br/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X7D8X8S/) | Cal Newport
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
+| Livro | 🇧🇷🇺🇸 | [Faça tempo: 4 passos para definir suas prioridades e não adiar mais nada](https://www.amazon.com.br/Faça-tempo-passos-definir-prioridades-ebook/dp/B07PH1H1SC) | Jake Knapp, John Zeratsky
 
 
 ### Gestão
