@@ -6,6 +6,7 @@
 Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a trazer mais recursos!
 
 ## Categorias
+- Posts
 - Comunidades
 - Conferências
 - Podcasts
@@ -82,7 +83,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Newsletter 	| 🇺🇸 | [Software Lead Weekly](https://softwareleadweekly.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Software Lead Weekly Slack Community](https://swlw.slack.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Engineering Managers Slack Community](https://engmanagers.github.io/) | -
-
+| Post | 🇧🇷 | [Liderança técnica: quando, como e por quê?](https://medium.com/@danielaarajo/parte-1-lideran%C3%A7a-t%C3%A9cnica-quando-como-e-por-qu%C3%AA-430ea0bc5cba) | Daniela Araújo
 
 
 ### Saúde do time e processos
