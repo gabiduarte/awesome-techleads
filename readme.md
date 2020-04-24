@@ -92,9 +92,8 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Categoria 	| Idioma    	| Título    	| Observação |
 |-----------	|-----------	|-----------	|------------|
 | Site 	| 🇺🇸 	| [Fun retrospectives: Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com)| Paulo Caroli, Tainã Caetano
-| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
+| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/)| Mike Cohn
 | Deck 	| 🇺🇸 	| [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com.br/Managing-Happiness-Practices-Motivate-English-ebook/dp/B01GQWKHXK)| Jurgen Appelo
-| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
 | Blog 	| 🇧🇷🇺🇸 | [Dev Huddle: An Agile Ceremony for Devs](https://dev.to/gabiduarte/dev-huddle-an-agile-ceremony-for-devs-4g34)| Gabrielle Duarte
 
 
