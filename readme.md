@@ -29,6 +29,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Conferência | 🇺🇸 | [Lead Dev Conference](https://theleaddeveloper.com/)|  -
 | Comunidades | 🇺🇸 	| [Lead Dev Slack Community](https://lead-dev-slack.herokuapp.com/) | -
 | Livro | 🇧🇷🇺🇸 	| [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675) | Robert C. Martin
+| Livro | 🇧🇷🇺🇸 | [TDD - Desenvolvimento Guiado Por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X)| Kent Beck
 
 
 ### Arquitetura e Design de Sistemas Complexos
@@ -42,7 +43,6 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Podcast | 🇺🇸 | [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)| Plato
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
 | Blog | 🇧🇷 | [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)| Simon Brown
-| Livro | 🇺🇸 | [Test Driven Development: By Example](https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530)| Kent Beck
 | Livro | 🇺🇸 | [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Production-Ready-Software-English-ebook/dp/B079YWMY2V)| Michael T. Nygard
 
 
