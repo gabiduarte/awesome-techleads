@@ -62,6 +62,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Podcast | 🇺🇸 | [Soft Skills Engineering](https://softskills.audio/) | Dave Smith, Jamison Dance
 | Livro | 🇺🇸 | [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com.br/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
 | Newsletter | 🇺🇸 | [3-2-1 Newsletter](https://jamesclear.com/3-2-1) | James Clear
+| Livro | 🇧🇷🇺🇸 |[A arte de dar feedback](https://www.amazon.com.br/arte-feedback-Harvard-Business-Review/dp/854310730X) | Harvard Business Review
 
 
 ### Produtividade
