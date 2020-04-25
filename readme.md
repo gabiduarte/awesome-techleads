@@ -5,7 +5,17 @@
 ---
 Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a trazer mais recursos!
 
-## Categorias
+## Conteúdos
+- [Engenharia de Software](https://github.com/gabiduarte/awesome-techleads#engenharia-de-software)
+- [Arquitetura e Design de Sistemas Complexos](https://github.com/gabiduarte/awesome-techleads#arquitetura-e-design-de-sistemas-complexos)
+- [Produto](https://github.com/gabiduarte/awesome-techleads#produto)
+- [Feedbacks e Soft Skills](https://github.com/gabiduarte/awesome-techleads#feedbacks-e-soft-skills)
+- [Produtividade](https://github.com/gabiduarte/awesome-techleads#produtividade)
+- [Gestão](https://github.com/gabiduarte/awesome-techleads#gest%C3%A3o)
+- [Saúde do time e Processos](https://github.com/gabiduarte/awesome-techleads#sa%C3%BAde-do-time-e-processos)
+- [Recrutamento e Onboarding](https://github.com/gabiduarte/awesome-techleads#recrutamento-e-onboarding)
+
+## Tipos de conteúdo
 - Posts
 - Comunidades
 - Conferências
@@ -18,7 +28,6 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 - Cursos
 
 ## Tópicos
-
 ### Engenharia de Software
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
