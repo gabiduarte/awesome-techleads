@@ -40,6 +40,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 	| [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675) | Robert C. Martin
 | Livro | 🇧🇷🇺🇸 | [TDD - Desenvolvimento Guiado Por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X)| Kent Beck
 
+-------------
 
 ### Arquitetura e Design de Sistemas Complexos
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
@@ -54,6 +55,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇺🇸 | [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Production-Ready-Software-English-ebook/dp/B079YWMY2V)| Michael T. Nygard
 | Podcast | 🇺🇸 | [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)| Plato
 
+-------------
 
 ### Produto
 | Categoria 	| Idioma    	| Título    	| Autor(a/es)|
@@ -62,6 +64,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Design Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-Jake-Knapp-ebook/dp/B06XPPS4JW) | Jake Knapp, John Zeratsky, Braden Kowitz
 | Livro | 🇺🇸	| [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com.br/INSPIRED-Create-Products-Customers-English-ebook/dp/B077NRB36N/) | Marty Cagan
 
+-------------
 
 ### Feedbacks e Soft Skills
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
@@ -73,6 +76,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Newsletter | 🇺🇸 | [3-2-1 Newsletter](https://jamesclear.com/3-2-1) | James Clear
 | Podcast | 🇺🇸 | [Soft Skills Engineering](https://softskills.audio/) | Dave Smith, Jamison Dance
 
+-------------
 
 ### Produtividade
 | Categoria 	| Idioma    	| Título    	| Observação |
@@ -82,6 +86,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Faça tempo: 4 passos para definir suas prioridades e não adiar mais nada](https://www.amazon.com.br/Faça-tempo-passos-definir-prioridades-ebook/dp/B07PH1H1SC) | Jake Knapp, John Zeratsky
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
 
+-------------
 
 ### Gestão
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
@@ -99,7 +104,9 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Newsletter    | 🇺🇸 | [Level Up](http://levelup.patkua.com/) | Pat Kua
 | Post | 🇧🇷 | [Liderança técnica: quando, como e por quê?](https://medium.com/@danielaarajo/parte-1-lideran%C3%A7a-t%C3%A9cnica-quando-como-e-por-qu%C3%AA-430ea0bc5cba) | Daniela Araújo
 | Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
+| Podcast | 🇺🇸 | [Programming Leadership](https://marcusblankenship.com/category/podcast/) | Marcus Blankenship |
 
+-------------
 
 ### Saúde do time e processos
 | Categoria 	| Idioma    	| Título    	| Observação |
@@ -109,6 +116,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro     | 🇺🇸    | [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/)| Mike Cohn
 | Site 	| 🇺🇸 	| [Fun retrospectives: Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com)| Paulo Caroli, Tainã Caetano
 
+-------------
 
 ### Recrutamento e onboarding
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
