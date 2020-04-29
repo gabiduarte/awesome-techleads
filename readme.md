@@ -97,6 +97,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Comunidade 	| 🇺🇸 | [Software Lead Weekly Slack Community](https://swlw.slack.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Engineering Managers Slack Community](https://engmanagers.github.io/) | -
 | Post | 🇧🇷 | [Liderança técnica: quando, como e por quê?](https://medium.com/@danielaarajo/parte-1-lideran%C3%A7a-t%C3%A9cnica-quando-como-e-por-qu%C3%AA-430ea0bc5cba) | Daniela Araújo
+| Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
 
 
 ### Saúde do time e processos
