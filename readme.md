@@ -16,16 +16,17 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 - [Recrutamento e Onboarding](https://github.com/gabiduarte/awesome-techleads#recrutamento-e-onboarding)
 
 ## Tipos de conteúdo
-- Posts
+- Blogs
 - Comunidades
 - Conferências
-- Podcasts
-- Newsletter
-- Blogs
-- Sites
+- Cursos
 - Decks
 - Livros
-- Cursos
+- Newsletter
+- Podcasts
+- Posts
+- Repositório
+- Sites
 
 ## Tópicos
 ### Engenharia de Software
@@ -81,6 +82,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Trabalho Focado: Como ter Sucesso em um Mundo Distraído](https://www.amazon.com.br/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X7D8X8S/) | Cal Newport
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
 | Livro | 🇧🇷🇺🇸 | [Faça tempo: 4 passos para definir suas prioridades e não adiar mais nada](https://www.amazon.com.br/Faça-tempo-passos-definir-prioridades-ebook/dp/B07PH1H1SC) | Jake Knapp, John Zeratsky
+| Deck | 🇺🇸 | [Effective Engineers Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) | Rondy Souza
 
 
 ### Gestão
@@ -100,6 +102,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
 | Podcast | 🇺🇸 | [Programming Leadership](https://marcusblankenship.com/category/podcast/) | Marcus Blankenship |
 
+
 ### Saúde do time e processos
 | Categoria 	| Idioma    	| Título    	| Observação |
 |-----------	|-----------	|-----------	|------------|
@@ -109,13 +112,12 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Blog 	| 🇧🇷🇺🇸 | [Dev Huddle: An Agile Ceremony for Devs](https://dev.to/gabiduarte/dev-huddle-an-agile-ceremony-for-devs-4g34)| Gabrielle Duarte
 
 
-
 ### Recrutamento e onboarding
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
 | Curso | 🇧🇷 | [Curso de Recrutamento e Seleção para Alta Performance 2.0](https://gupy.academy/p/recrutamento-e-selecao-para-alta-performance)	| Gupy Academy
 | Deck | 🇺🇸 | [Effective Team Onboarding](https://www.slideshare.net/mscandella/effective-team-onboarding)| María Gomez, ThoughtWorks
-
+| Repositório | 🇺🇸 | [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)| Yangshun Tay
 
 
 ## Como Contribuir
