@@ -68,6 +68,8 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Os 7 Hábitos das Pessoas Altamente Eficazes - Edição Customizada: Lições poderosas para a transformação pessoal](https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626) | Stephen R. Covey
 | Livro | 🇧🇷🇺🇸 | [Trabalho Focado: Como ter Sucesso em um Mundo Distraído](https://www.amazon.com.br/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X7D8X8S/) | Cal Newport
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
+| Livro | 🇧🇷🇺🇸 | [A arte de fazer acontecer - O método GTD - Getting Things Done](https://www.amazon.com.br/arte-fazer-acontecer-Estrat%C3%A9gias-produtividade-ebook/dp/B015YGOACS/ref=asc_df_B015YGOACS/?tag=googleshopp00-20&linkCode=df0&hvadid=379721120149&hvpos=&hvnetw=g&hvrand=5843950167076610276&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001763&hvtargid=pla-481945650889&psc=1)| David Allen
+
 
 
 ### Gestão
