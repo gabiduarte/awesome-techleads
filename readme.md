@@ -101,6 +101,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Post | 🇧🇷 | [Liderança técnica: quando, como e por quê?](https://medium.com/@danielaarajo/parte-1-lideran%C3%A7a-t%C3%A9cnica-quando-como-e-por-qu%C3%AA-430ea0bc5cba) | Daniela Araújo
 | Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
 | Podcast | 🇺🇸 | [Programming Leadership](https://marcusblankenship.com/category/podcast/) | Marcus Blankenship |
+| Livro | 🇺🇸 | [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.br/gp/product/B06XP3GJ7F?storeType=ebooks&pf_rd_t=40901&pd_rd_i=B06XP3GJ7F&pf_rd_m=A1ZZFT5FULY4LN&pageType=STOREFRONT&pf_rd_p=3c3b7124-3dbc-48cc-a32b-a1035088287e&pf_rd_r=9SY23KWRCS776YJMZVZP&pd_rd_wg=JlmFF&pf_rd_s=merchandised-search-3&ref_=dbs_f_r_shv_rfy_3c3b7124-3dbc-48cc-a32b-a1035088287e_4&pd_rd_w=xecSz&pf_rd_i=5475882011&pd_rd_r=1958bf90-2720-43ae-aebf-e12cf4ea6d47) | Camille Fournier |
 
 
 ### Saúde do time e processos
