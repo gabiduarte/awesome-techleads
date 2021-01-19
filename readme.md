@@ -54,6 +54,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
 | Blog | 🇧🇷 | [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)| Simon Brown
 | Livro | 🇺🇸 | [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Production-Ready-Software-English-ebook/dp/B079YWMY2V)| Michael T. Nygard
+| Livro | 🇺🇸 | [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D)| Martin Kleppmann
 
 
 ### Produto
