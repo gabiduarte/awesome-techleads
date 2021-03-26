@@ -83,7 +83,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
 | Livro | 🇧🇷🇺🇸 | [Faça tempo: 4 passos para definir suas prioridades e não adiar mais nada](https://www.amazon.com.br/Faça-tempo-passos-definir-prioridades-ebook/dp/B07PH1H1SC) | Jake Knapp, John Zeratsky
 | Deck | 🇺🇸 | [Effective Engineers Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) | Rondy Souza
-
+| Livro | 🇧🇷🇺🇸 | [14 Hábitos de Desenvolvedores Altamente Produtivos](https://www.amazon.com.br/14-H%C3%A1bitos-Desenvolvedores-Altamente-Produtivos-ebook/dp/B08BF7PZZX) | Zeno Rocha
 
 ### Gestão
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
