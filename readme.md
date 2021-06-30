@@ -94,7 +94,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Newsletter 	| 🇺🇸 | [Level Up](http://levelup.patkua.com/) | Pat Kua
 | Deck | 🇺🇸| [1:1 Basics For The Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) | Pat Kua
 | Livro | 🇺🇸 | [High Output Management](https://www.amazon.com.br/Output-Management-English-Andrew-Grove-ebook/dp/B015VACHOK) | Andrew S. Grove
-| Livro | 🇺🇸 | [Extreme Leadership](https://www.amazon.com.br/Extreme-Ownership-U-S-SEALs-English-ebook/dp/B0739PYQSS) | Jocko Willink, Leif Babin
+| Livro | 🇺🇸 | [Extreme Ownership](https://www.amazon.com.br/Extreme-Ownership-U-S-SEALs-English-ebook/dp/B0739PYQSS) | Jocko Willink, Leif Babin
 | Newsletter 	| 🇺🇸 | [Software Lead Weekly](https://softwareleadweekly.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Software Lead Weekly Slack Community](https://swlw.slack.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Engineering Managers Slack Community](https://engmanagers.github.io/) | -
