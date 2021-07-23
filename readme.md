@@ -104,6 +104,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
 | Podcast | 🇺🇸 | [Programming Leadership](https://marcusblankenship.com/category/podcast/) | Marcus Blankenship |
 | Podcast | 🇧🇷 | [Tech Leadership Rocks](https://techleadership.rocks) | Tech Leadership Rocks |
+| Newsletter | 🇺🇸 | [Harvard Business Review Leadership](https://hbr.org/topic/leadership) | - |
 
 
 ### Saúde do time e processos
