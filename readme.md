@@ -106,6 +106,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Podcast | 🇧🇷 | [Tech Leadership Rocks](https://techleadership.rocks) | Tech Leadership Rocks |
 | Newsletter | 🇺🇸 | [Harvard Business Review Leadership](https://hbr.org/topic/leadership) | - |
 | Livro | 🇺🇸 | [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) | Will Larson |
+| Livro | 🇺🇸 | [The Staff Engineer's Path](https://www.amazon.com/-/pt/dp-B0BG16Y553/dp/B0BG16Y553/ref=mt_other?_encoding=UTF8&me=&qid=) | Tanya Reilly |
 
 
 ### Saúde do time e processos
