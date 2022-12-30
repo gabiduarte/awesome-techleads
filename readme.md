@@ -130,6 +130,6 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 Contribuições são bem vindas! Para contribuir, leia as [guidelines de contribuição](contributing.md) primeiro.
 
 
-## Liçenca
+## Licença
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
