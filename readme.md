@@ -74,6 +74,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇺🇸 | [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com.br/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
 | Newsletter | 🇺🇸 | [3-2-1 Newsletter](https://jamesclear.com/3-2-1) | James Clear
 | Livro | 🇧🇷🇺🇸 |[A arte de dar feedback](https://www.amazon.com.br/arte-feedback-Harvard-Business-Review/dp/854310730X) | Harvard Business Review
+| Site | 🇧🇷 |[Como trilhar o caminho do Desenvolvedor Sênior](https://henriquebastos.net/o-caminho-do-desenvolvedor-senior) | Henrique Bastos
 
 
 ### Produtividade
